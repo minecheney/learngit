@@ -5,4 +5,4 @@ Git is  free software
 这是我第三次修改了
 这是我第四次修改了
 Creating a new branch is quick.
-creating a new branch is quick & simple.
+creating a new branch is quick AND simple.
